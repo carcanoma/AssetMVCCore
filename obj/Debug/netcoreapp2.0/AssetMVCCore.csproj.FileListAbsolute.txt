@@ -1,0 +1,11 @@
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\bin\Debug\netcoreapp2.0\AssetMVCCore.deps.json
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\bin\Debug\netcoreapp2.0\AssetMVCCore.runtimeconfig.json
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\bin\Debug\netcoreapp2.0\AssetMVCCore.runtimeconfig.dev.json
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\bin\Debug\netcoreapp2.0\AssetMVCCore.dll
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\bin\Debug\netcoreapp2.0\AssetMVCCore.pdb
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\obj\Debug\netcoreapp2.0\AssetMVCCore.csprojResolveAssemblyReference.cache
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\obj\Debug\netcoreapp2.0\AssetMVCCore.csproj.CoreCompileInputs.cache
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\obj\Debug\netcoreapp2.0\AssetMVCCore.AssemblyInfoInputs.cache
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\obj\Debug\netcoreapp2.0\AssetMVCCore.AssemblyInfo.cs
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\obj\Debug\netcoreapp2.0\AssetMVCCore.dll
+c:\users\carca\documents\visual studio 2017\Projects\AssetMVCCore\AssetMVCCore\obj\Debug\netcoreapp2.0\AssetMVCCore.pdb
