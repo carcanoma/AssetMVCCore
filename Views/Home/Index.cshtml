@@ -62,15 +62,20 @@
             .Columns(columns =>
             {
                 columns.Bound(p => p.Asset_Id).Filterable(false);
-                columns.Bound(p => p.Finance_Company);
                 columns.Bound(p => p.Make);
                 columns.Bound(p => p.Model);
+                columns.Bound(p => p.AssetKey).Title("SerialNo");
             })
             .Pageable()
             .Filterable()
             .Sortable()
             .ColumnMenu()
+            .Pageable(pageable => pageable
+            .Refresh(true)
+            .PageSizes(true)
+            .ButtonCount(5))
             .Resizable(resize => resize.Columns(true))
+            .Reorderable(reorder => reorder.Columns(true))
             )
     </div>
 </div>

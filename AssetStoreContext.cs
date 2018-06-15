@@ -36,7 +36,8 @@ namespace AssetMVCCore
                             Description = reader["asset_description"].ToString(),
                             //Finance_Company = reader["finance_company"].ToString(),
                             Make = reader["mfg"].ToString(),
-                            Model = reader["model"].ToString()
+                            Model = reader["model"].ToString(),
+                            AssetKey = reader["asset_key"].ToString()
                         });
                     }
                 }
